@@ -1,6 +1,6 @@
 # Notes
-The hand-writing note is summaried from my notes during the PhD at Duke in Prof. Jungsang Kim's lab. It contains experimental operation tips, and some (not rigorous) mathematical derevitions. The references used are listed next to the corresponding content, if applicable. Some experimental operation ideas are original from Yichao Yu. He also checked the accuracy of the notes.
+The handwritten notes are a compilation of my experiences and observations during my PhD at Duke in Prof. Jungsang Kim's lab. They include practical experimental tips and some (informal) mathematical derivations. References are provided alongside relevant content where applicable. Some experimental concepts originated from Yichao Yu, who has also verified the accuracy of these notes.
 
-If you find any mistakes inside the note, or do you have any ideas that want to add into this note, please contact me at ke.sun@duke.edu
+Should you encounter any inaccuracies or have suggestions for additions to these notes, please feel free to contact me at ke.sun@duke.edu.
 
-Enjoy your life as an AMO experimentalist!
+Wishing you a fulfilling journey as an AMO experimentalist!
